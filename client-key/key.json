@@ -1,0 +1,15 @@
+{
+    "web": {
+        "client_id": "220296970166-k6dge68i64ifpermcm81usbfp1sej0ji.apps.googleusercontent.com",
+        "project_id": "gmail-smtp-346417",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "https://test.adilarham.com/wp-admin/options-general.php?page=gmail-smtp-settings&action=oauth_grant",
+            "https://phpmailer.adilarham.com/get_oauth_token.php"
+        ],
+        "refresh_token": "1//0gKr6j-juuE-MCgYIARAAGBASNwF-L9IrYUXmW7gHMfUS9FjdgQIPF_noA7dWwFwXgrgpP5ydsSmkUiA8J7m0PxHtmTTdsaVzkhY"
+    }
+}
